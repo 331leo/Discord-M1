@@ -17,6 +17,7 @@ var options = {
   darwinDarkModeSupport: true,
   backgroundColor: "36393f",
   titleBarStyle: "hiddenInset",
+  enableEs3Apis: true,
   inject: ["./static/discord.css"],
 };
 
