@@ -4,12 +4,12 @@ var _today = new Date();
 
 var version = `${_today.getFullYear().toString().substr(2, 4)}.${
   _today.getMonth() + 1
-}.${_today.getDate()}`;
+}.${_today.getDate()}.${_today.getMilliseconds()}`;
 
 var options = {
   name: "Discord M1",
   targetUrl: "https://discord.com/app",
-  version: version,
+  appVersion: version,
   out: ".",
   icon: "./static/discord.icns",
   browserwindowOptions:
