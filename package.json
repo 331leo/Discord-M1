@@ -1,0 +1,12 @@
+{
+  "name": "Discord_M1",
+  "version": "1.0.0",
+  "description": "A Electron Port of Discord Webapp for Apple Silicon",
+  "main": "index.js",
+  "repository": "https://github.com/331leo/Discord-M1",
+  "author": "Leo Kim<me@leok.kr>",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "nativefier": "^43.1.3"
+  }
+}
