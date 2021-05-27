@@ -18,6 +18,7 @@ var options = {
   backgroundColor: "36393f",
   titleBarStyle: "hiddenInset",
   enableEs3Apis: true,
+  disableContextMenu: false,
   inject: ["./static/discord.css"],
 };
 
