@@ -1,3 +1,6 @@
+# ARCHIVED
+> Archived due to official Discord Apple Silicon Support [Discord-Datamining Commit](https://github.com/Discord-Datamining/Discord-Datamining/commit/cf43286bc1be830dcacc3d5581d95de642218ace)
+___
 # Discord M1 (Apple Silicon)
 A Electron Port of Discord Webapp for Apple Silicon
 
